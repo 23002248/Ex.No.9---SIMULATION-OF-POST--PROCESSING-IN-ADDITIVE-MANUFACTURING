@@ -1,6 +1,6 @@
 # Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 27.11.2023
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -52,7 +52,7 @@
 
 
 ### Name: stephen raj.y
-### Register Number:23002248
+### Register Number:212223230217
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
